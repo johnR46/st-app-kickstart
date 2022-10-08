@@ -1,4 +1,4 @@
-# Name of Streamlit App
+# Name of Streamlit-App-Kickstart
 
 Description of the app ...
 
